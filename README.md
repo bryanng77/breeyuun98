@@ -1,7 +1,7 @@
-# Bryan's Portfolio:
-##### Data Science and Business Analytics
+## Bryan's Portfolio:
+#### Data Science and Business Analytics
 
-#### Projects:
+### Projects:
 - Project 1
 - Project 2
 

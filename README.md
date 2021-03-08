@@ -9,4 +9,4 @@
 
 Please bryan u need to try harder
 
-[About Me](about.md)
+[About Me](about.md)        [Page 2](page2.md)

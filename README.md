@@ -1,5 +1,6 @@
-## **Data Science and Business Analytics**
+## **Bryan's Portfolio**
 
+## Data Science and Business Analytics
 #### Projects:
 
 - Project 1

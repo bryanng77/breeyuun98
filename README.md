@@ -1,5 +1,5 @@
 # Bryan's Portfolio
-[About Me](about.md)
+[Home](README.md) [About Me](about.md)
 
 ## Projects:
 - Project 1

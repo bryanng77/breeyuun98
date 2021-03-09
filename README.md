@@ -1,6 +1,7 @@
 # Bryan's Portfolio
 [About Me](about.md)
-# Projects:
+
+## Projects:
 - Project 1
 - Project 2
 - Porject 3

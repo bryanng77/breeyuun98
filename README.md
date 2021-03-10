@@ -10,8 +10,8 @@ Learning Points:
 * Store data using Python lists
 * Iterate over lists of data using loops and list comprehensions
 * Map data using Python dictionaries
-* Create your own data types with Python classes
+* Create my own data types with Python classes
 
-![matt-sclarandis-S_IV6KqGeso-unsplash](https://user-images.githubusercontent.com/79688274/110343473-7eaa2a00-8067-11eb-86ee-da381b47f102.jpg)
+![WX20190605-163816-702x336](https://user-images.githubusercontent.com/79688274/110669100-f5315e00-8206-11eb-92f0-0dda31cec8c0.png)
 
       

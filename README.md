@@ -2,7 +2,7 @@
 [Home](README.md) [About Me](about.md)
 
 ## Projects:
-### [Project 1: US Medical Insurance Costs](https://github.com/bryanng77/breeyuun98/blob/main/us-medical-insurance-costs.py)
+## [Project 1: US Medical Insurance Costs](https://github.com/bryanng77/breeyuun98/blob/main/us-medical-insurance-costs.py)
 
 Learning Points:
 * Use Python functions

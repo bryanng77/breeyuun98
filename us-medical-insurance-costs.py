@@ -1,15 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # United States Medical Insurance Costs
-# 
+# United States Medical Insurance Costs
+
 # In this project, a file with medical insurance costs will be investigated using Python fundamentals. The goal with this project will be to analyze various attributes within insurance.csv to learn more about the patient information in the file and gain insight into potential use cases for the dataset.
 
 # import CSV Library 
 import csv 
 
 # To begin, we will need all necessaries libraries to be imported. For this project, the only library that is required would be the `csv` library. In this project, we will be working with the **insurance.csv** data. Let's begin!
-# 
 
 # It is important to look through the **insurance.csv** file so that we know the data that we are working with. The following aspects of the file will be checked in order to plan out how to import the data in **insurance.csv** into a Python file.
 # 
@@ -27,7 +26,6 @@ region = []
 charges = []
 patient_info = []
 
-
 # **insurance.csv** contains the following columns:
 # * Patient's age
 # * Patient's sex
@@ -39,8 +37,7 @@ patient_info = []
 # 
 # Thankfully, there are no signs of missing data. To store this information, seven empty lists have been created to store the individual column data from **insurance.csv**.
 
-
-# helper function to load csv data
+# Helper function to load csv data
 def load_list_data(lst, csv_file, column_name):
     # open csv file
     with open(csv_file) as insurance_info:
@@ -52,7 +49,6 @@ def load_list_data(lst, csv_file, column_name):
             lst.append(row[column_name])
         # return the list
         return lst  
-
 
 # The helper function above was created to make loading data into the lists as efficient as possible. Without this function, one would have to open **insurance.csv** and rewrite the `for` loop seven times; however, with this function, one can simply call `load_list_data()` each time as shown below.
 # 

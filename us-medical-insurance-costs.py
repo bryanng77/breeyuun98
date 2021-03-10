@@ -58,8 +58,6 @@ def load_list_data(lst, csv_file, column_name):
 # 
 # For the **insurance.csv** file, we will need to use the pathname for the data to appear, hence, we will input ``/Users/bryanng77/Downloads/Insurance CSV folder/insurance.csv`` as instead of **insurance.csv**.
 
-# In[60]:
-
 # look at the data in insurance_csv_dict
 load_list_data(ages, "/Users/bryanng77/Downloads/Insurance CSV folder/insurance.csv", 'age')
 load_list_data(sexes, "/Users/bryanng77/Downloads/Insurance CSV folder/insurance.csv", 'sex')
@@ -86,11 +84,7 @@ load_list_data(charges, "/Users/bryanng77/Downloads/Insurance CSV folder/insuran
 # 
 # In order to do this, we will try to work our way around it using ``class`` and ``functions``.
 # 
-#         
-
-# In[84]:
-
-
+       
 # initiate "Class"
 class PatientsInfo:
     # init method that will take in each list parameter
@@ -167,13 +161,8 @@ class PatientsInfo:
 
 # The next step is to create an instance of the class called `patient_info`. With this instance, each method can be used to see the results of the analysis.
 
-# In[78]:
-
 
 patient_info = PatientsInfo(ages, sexes, bmi, children, smoker, region, charges)
-
-
-# In[79]:
 
 
 patient_info.average_age()

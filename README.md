@@ -2,7 +2,7 @@
 [Home](README.md) [About Me](about.md)
 
 ## Projects:
-- Project 1
+- [US Medical Insurance Costs](us-medical-insurance-costs.py)
 - Project 2
 - Porject 3
 

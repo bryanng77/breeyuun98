@@ -5,12 +5,8 @@
 # 
 # In this project, a file with medical insurance costs will be investigated using Python fundamentals. The goal with this project will be to analyze various attributes within insurance.csv to learn more about the patient information in the file and gain insight into potential use cases for the dataset.
 
-# In[17]:
-
-
 # import CSV Library 
 import csv 
-
 
 # To begin, we will need all necessaries libraries to be imported. For this project, the only library that is required would be the `csv` library. In this project, we will be working with the **insurance.csv** data. Let's begin!
 # 
@@ -20,9 +16,6 @@ import csv
 # * The names of columns and rows
 # * To check if there are any missing data
 # * Types of values (numerical or categorical)
-
-# In[31]:
-
 
 # Create empty lists for various attributes in insurance.csv
 ages = []
@@ -46,8 +39,6 @@ patient_info = []
 # 
 # Thankfully, there are no signs of missing data. To store this information, seven empty lists have been created to store the individual column data from **insurance.csv**.
 
-# In[58]:
-
 
 # helper function to load csv data
 def load_list_data(lst, csv_file, column_name):
@@ -68,7 +59,6 @@ def load_list_data(lst, csv_file, column_name):
 # For the **insurance.csv** file, we will need to use the pathname for the data to appear, hence, we will input ``/Users/bryanng77/Downloads/Insurance CSV folder/insurance.csv`` as instead of **insurance.csv**.
 
 # In[60]:
-
 
 # look at the data in insurance_csv_dict
 load_list_data(ages, "/Users/bryanng77/Downloads/Insurance CSV folder/insurance.csv", 'age')
@@ -191,31 +181,20 @@ patient_info.average_age()
 
 # The average age of the patients in **insurance.csv** is about 39 years old. This is important to check in order to ensure the data in **insurance.csv** is representative for a broader population. If it is decided to use the dataset to make inferences about other populations, the data must abundant and broad enough for such use cases.
 
-# In[80]:
-
-
 patient_info.analyze_sexes()
 
 
 # The next step of the analysis is to check the balance of males vs. females in **insurance.csv**. Similar to above, it is important to check that this dataset is representative of a broader population of individuals. If a person were to use this dataset to create a classification model, it is important to make sure that the attributes are balanced.
-
-# In[85]:
-
 
 patient_info.unique_regions()
 
 
 # There are four unique geographical regions in this dataset, and it is important to note that all the patients come from the United States.
 
-# In[86]:
-
-
 patient_info.average_charges()
 
 
 # The average yearly medical insurance charge per individual is 13270 USD. Some further analysis could be done to see what patient attributes contribute most strongly to low and/or high medical insurance charges. For example, one could check if patient age correlates with the amount of money they spend yearly.
-
-# In[87]:
 
 
 patient_info.create_dictionary()

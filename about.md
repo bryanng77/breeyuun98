@@ -5,6 +5,7 @@
 
 #### I am a first year student pursuing a degree in Data Science and Business Analytics at the University of London (UOL) under Singapore Instituite of Management Global Education (SIMGE). I graduated with a Business Studies diploma from Ngee Ann Polytechnic, and this experience has allowed me to gain insight into real business environments and challenges. 
 
+
 #### I am adequately proficient in software such as Tableau, Microsoft Excel, Microsoft Word and Microsoft PowerPoint. Through online courses and programs, I have self-taught myself Python and MySQL.
 
 

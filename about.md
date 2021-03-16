@@ -8,6 +8,6 @@
 #### I am adequately proficient in software such as Tableau, Microsoft Excel, Microsoft Word and Microsoft PowerPoint. Through online courses and programs, I have self-taught myself Python and MySQL.
 
 
-##### “If it doesn't challenge you, it won't change you", is quote that I keep In mind each day. I am highly motivated and will constantly push myself to improve. I am highly curious and willing to take up new challenges and skills.
+#### “If it doesn't challenge you, it won't change you", is quote that I keep In mind each day. I am highly motivated and will constantly push myself to improve. I am highly curious and willing to take up new challenges and skills.
 
 

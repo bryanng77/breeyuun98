@@ -4,7 +4,7 @@
 ## Projects:
 ## [Project 1: US Medical Insurance Costs](us-medical-insurance-costs.md)
 
-Learning Points:
+**Learning Points:**
 * Use Python functions
 * Manage programs using control flow
 * Store data using Python lists

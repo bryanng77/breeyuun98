@@ -14,4 +14,4 @@
 
 ![WX20190605-163816-702x336](https://user-images.githubusercontent.com/79688274/110669100-f5315e00-8206-11eb-92f0-0dda31cec8c0.png)
 
-      
+## [Project 2: Web Scraping using BeautifulSoup](Chocolate Scraping with BeautifulSoup.md)

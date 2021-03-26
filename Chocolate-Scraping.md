@@ -74,9 +74,8 @@ plt.hist(ratings)
 plt.show()
 ```
 
+![output_9_0](https://user-images.githubusercontent.com/79688274/112676157-0df67080-8ea3-11eb-9055-0937749f587a.png)
 
-    
-![png](output_9_0.png)
     
 
 
@@ -235,7 +234,8 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![output_21_0](https://user-images.githubusercontent.com/79688274/112676041-eacbc100-8ea2-11eb-90b0-810282d25a7e.png)
+
     
 
 

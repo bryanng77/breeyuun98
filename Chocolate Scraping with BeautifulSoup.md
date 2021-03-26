@@ -1,3 +1,4 @@
+![output_21_0](https://user-images.githubusercontent.com/79688274/112678280-b4dc0c00-8ea5-11eb-8494-f90aa2702e3e.png)
 # Chocolate Scraping with BeautifulSoup!
 
 After eating chocolate bars your whole life, you’ve decided to go on a quest to find the greatest chocolate bar in the world. You’ve found a website that has over 1700 reviews of chocolate bars from all around the world. It’s displayed in the web browser on this page.
@@ -181,7 +182,7 @@ Task:
 - Using the same methods you used in the last couple of tasks, create a list that contains all of the cocoa percentages. 
 - Store each percent as an integer, after stripping off the % character.
 
-![Screenshot%202021-03-27%20at%201.21.45%20AM.png](attachment:Screenshot%202021-03-27%20at%201.21.45%20AM.png)
+<img width="300" alt="Screenshot 2021-03-27 at 2 38 46 AM" src="https://user-images.githubusercontent.com/79688274/112678162-8fe79900-8ea5-11eb-8f4c-484f5106f366.png">
 
 It looks like all of the rating data have a class **"CocoaPercent"**. We can use **.find_all()** to get all elements of a class "ClassName" with this syntax
 
@@ -240,8 +241,8 @@ plt.show()
 
 
 
+![output_21_0](https://user-images.githubusercontent.com/79688274/112678337-c1f8fb00-8ea5-11eb-933d-f1233fd4ac06.png)
 
-<img width="300" alt="Screenshot 2021-03-27 at 2 38 46 AM" src="https://user-images.githubusercontent.com/79688274/112678162-8fe79900-8ea5-11eb-8f4c-484f5106f366.png">
 
 
 A scatter plot (aka scatter chart, scatter graph) uses dots to represent values for two different numeric variables. The position of each dot on the horizontal and vertical axis indicates values for an individual data point. Scatter plots are used to observe relationships between variables.

@@ -1,5 +1,6 @@
-![output_21_0](https://user-images.githubusercontent.com/79688274/112678280-b4dc0c00-8ea5-11eb-8494-f90aa2702e3e.png)
 # Chocolate Scraping with BeautifulSoup!
+
+[Home](README.md) [About Me](about.md)
 
 After eating chocolate bars your whole life, you’ve decided to go on a quest to find the greatest chocolate bar in the world. You’ve found a website that has over 1700 reviews of chocolate bars from all around the world. It’s displayed in the web browser on this page.
 

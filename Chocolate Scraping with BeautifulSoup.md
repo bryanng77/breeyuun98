@@ -76,7 +76,8 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![output_9_0](https://user-images.githubusercontent.com/79688274/112677261-785be080-8ea4-11eb-8858-f7c07f708891.png)
+
     
 
 

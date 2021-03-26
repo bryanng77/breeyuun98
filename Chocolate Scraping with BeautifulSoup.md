@@ -34,7 +34,8 @@ soup = BeautifulSoup(webpage_response.content, "html.parser")
 
 How many terrible chocolate bars are out there? How many earned a perfect 5? Lets make a histogram out of the data!
 
-![Screenshot%202021-03-27%20at%2012.39.06%20AM.png](attachment:Screenshot%202021-03-27%20at%2012.39.06%20AM.png)
+<img width="296" alt="Screenshot 2021-03-27 at 2 34 50 AM" src="https://user-images.githubusercontent.com/79688274/112677699-0932bc00-8ea5-11eb-9123-04b8812b9c7d.png">
+
 
 It looks like all of the rating data have a **class "Rating"**. We can use **.find_all()** to get all elements of a class "ClassName" with this syntax
 
@@ -88,7 +89,8 @@ We want to now find the **10 most highly rated chocolatiers**. One way to do thi
 
 First, let’s find all the tags on the webpage that contain the company names.
 
-![Screenshot%202021-03-27%20at%2012.52.10%20AM.png](attachment:Screenshot%202021-03-27%20at%2012.52.10%20AM.png)
+<img width="287" alt="Screenshot 2021-03-27 at 2 35 18 AM" src="https://user-images.githubusercontent.com/79688274/112677746-1354ba80-8ea5-11eb-9b75-90381077ecea.png">
+
 
 It looks like all of the rating data have a class **"Company"**. We can use **.find_all()** to get all elements of a class "ClassName" with this syntax
 
@@ -120,7 +122,8 @@ print(companies)
 
 As of now, we have both the data from companies and ratings. We can now proceed by **creating a DataFrame** to combine both the data together. Now, let us create a DataFrame! Here's a reminder on how to create a DataFrame.
 
-![Screenshot%202021-03-27%20at%201.06.30%20AM.png](attachment:Screenshot%202021-03-27%20at%201.06.30%20AM.png)
+
+![Screenshot 2021-03-27 at 2 38 18 AM](https://user-images.githubusercontent.com/79688274/112678091-7fcfb980-8ea5-11eb-8fb4-cdec387c7b9a.png)
 
 
 ```python
@@ -235,9 +238,10 @@ plt.show()
 ```
 
 
-    
-![png](output_21_0.png)
-    
+
+
+
+<img width="300" alt="Screenshot 2021-03-27 at 2 38 46 AM" src="https://user-images.githubusercontent.com/79688274/112678162-8fe79900-8ea5-11eb-8f4c-484f5106f366.png">
 
 
 A scatter plot (aka scatter chart, scatter graph) uses dots to represent values for two different numeric variables. The position of each dot on the horizontal and vertical axis indicates values for an individual data point. Scatter plots are used to observe relationships between variables.

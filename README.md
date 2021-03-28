@@ -16,3 +16,6 @@
 
 ## [Project 2: Web Scraping using BeautifulSoup](Chocolate-Scraping-with-BeautifulSoup.md)
 
+![image](https://user-images.githubusercontent.com/79688274/112750827-70638400-8ffd-11eb-9f75-1c654dc73caf.png)
+
+
